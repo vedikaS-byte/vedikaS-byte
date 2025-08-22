@@ -1,4 +1,4 @@
- **I will be developing my GitHub throughout the year as I work towards my Master of Enviromental Data Science. I apologize for the messiness!**
+ **I will be developing my GitHub throughout the year as I work towards my Master of Environmental Data Science. I apologize for the messiness!**
 
 - 👋 Hi, I’m @vedikaS-byte
 - 👀 I’m interested in data science and its role in climate and sustainability! 
