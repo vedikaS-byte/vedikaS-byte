@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @vedikaS-byte
 - 👀 I’m interested in data science and its role in climate and sustainability! 
-- 🌱 I’m currently expanding on my experience in the R programming language and have started learning Python as well. 
+- 🌱 I’m currently expanding on my experience in R and Python.
 
 
 <!---
