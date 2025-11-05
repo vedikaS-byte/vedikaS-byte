@@ -8,6 +8,9 @@ I am currently a Master of Environmental Data Science (MEDS) student at the Bren
 - 🌱 I’m currently expanding on my experience in R and Python.
 <img src = "image-url.com" alt = "This is alt text">
 
+![Uploading octocat-1762370885822.png…]()
+
+
 <!---
 vedikaS-byte/vedikaS-byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
