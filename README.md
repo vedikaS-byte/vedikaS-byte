@@ -6,9 +6,11 @@ I am currently a Master of Environmental Data Science (MEDS) student at the Bren
 - 👋 Hi, I’m @vedikaS-byte
 - 👀 I’m interested in data science and its role in climate and sustainability! 
 - 🌱 I’m currently expanding on my experience in R and Python.
-<img src = "image-url.com" alt = "This is alt text">
 
-![Uploading octocat-1762370885822.png…]()
+
+<img src = "[image-url.com](https://github.com/vedikaS-byte/vedikaS-byte/blob/main/octocat-1762371306909.png)" alt = "octocat">
+
+
 
 
 <!---
