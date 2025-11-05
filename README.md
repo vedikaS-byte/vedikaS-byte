@@ -11,6 +11,8 @@ I am currently a Master of Environmental Data Science (MEDS) student at the Bren
 <img src = "[octocat-1762371479095.png](https://github.com/vedikaS-byte/vedikaS-byte/blob/main/octocat-1762371479095.png)" alt = "octocat-1762371479095.png">
 
 
+![Uploading octocat-1762371479095.png…]()
+
 
 
 <!---
