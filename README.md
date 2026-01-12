@@ -1,7 +1,9 @@
 # Welcome To My Repository! 
-I am currently a Master of Environmental Data Science (MEDS) student at the Bren School of Environmental Science and Management, UC Santa Barbara. I am passionate about utilizing data science to help clients understand their emissions, as well as develop reductions strategies.
+
+I’ve always been drawn to nature. Growing up in Arizona and Texas, and now living in California, I’ve experienced a wide range of climates and landscapes that have shaped my appreciation for the natural world. With a deep familial connection to the ocean, I’m especially motivated to better understand and protect the environments we depend on. This curiosity ultimately led me to pursue environmental science and explore data-driven approaches to sustainability, especially in reducing greenhouse gas emissions.
+
  
- **I will be developing my GitHub throughout the year as I work towards my Master of Environmental Data Science. Apologies for the messiness!**
+ **I am currently a Master of Environmental Data Science (MEDS) student at the Bren School of Environmental Science and Management, UC Santa Barbara. I will be developing my GitHub throughout the year as I work towards my Master of Environmental Data Science. Apologies for the messiness!**
 
 - 👋 Hi, I’m @vedikaS-byte
 - 👀 I’m interested in data science and its role in climate and sustainability! 
